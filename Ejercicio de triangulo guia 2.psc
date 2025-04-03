@@ -17,7 +17,7 @@ Algoritmo Triangul0
 	FinSi
 	triangulo<-lado1+lado2
 	Si triangulo>ladomayor
-		escribir "En efecto es un traingulo";
+		escribir "En efecto es un triangulo";
 	sino 
 		escribir "No es un triangulo";
 	FinSi
