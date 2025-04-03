@@ -24,4 +24,4 @@ Leer numeromenor
 	numeromayor <- numeromenor;
   FinSi
 Escribir "Su numero mayor es" numeromayor;
-FinProceso
+Finalgoritmo
